@@ -17,7 +17,7 @@ const holidays = [
   "勤労感謝の日",
 ];
 
-for (i = 0; i <= 15; i++) {
+for (let i = 0; i <= 15; i++) {
   console.log(holidays[i]);
 }
 
