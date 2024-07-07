@@ -1,4 +1,4 @@
-let holidays = [
+const holidays = [
   "正月",
   "成人の日",
   "建国記念日",
